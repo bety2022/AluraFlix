@@ -53,7 +53,7 @@ en la resolución de un problema para poder aplicar todos los conocimientos adqu
   - React
   - Vite
   - Vercel
-  - - Git || GitHub || GitHub Pages
+  - Git || GitHub || GitHub Pages
 
 
 <div align="center">
