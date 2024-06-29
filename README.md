@@ -13,7 +13,7 @@ Este challenge es una forma de aprendizaje. Es un mecanismo donde podrás compro
 en la resolución de un problema para poder aplicar todos los conocimientos adquiridos en la formación React.
 
 <p align="center" >
-     <img width="400" heigth="300" src="assets/images/Insignia-Badge-Portfólio.png">
+     <img width="400" heigth="300" src="src/assets/img/Badge-AluraFlix.png">
 </p>
 
 ### ¡Bienvenido a mi AluraFlix!
