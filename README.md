@@ -33,7 +33,7 @@ en la resolución de un problema para poder aplicar todos los conocimientos adqu
 ## 🔎 Deploy
 <div align="center">
   <h3>
-    <a href="https://space-app-blond.vercel.app/" >
+    <a href="https://alura-flix-rho-ten.vercel.app/" >
       🔗 Visitar la Pagina AluraFlix
     </a>
 </div>
